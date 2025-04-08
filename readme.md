@@ -7,7 +7,7 @@ Simple and easy to use API for your Google Adwords.
 ##### Type in console:
 
 ```
-composer require edujugon/laravel-google-ads
+composer require zenthicmc/laravel-google-ads
 ```
 
 ##### Laravel 5.5 or higher?
