@@ -1,5 +1,5 @@
 {
-	"name": "edujugon/laravel-google-ads",
+	"name": "zenthicmc/laravel-google-ads",
 	"description": "Google Adwords API for Laravel",
 	"keywords": [
 		"google",
@@ -10,8 +10,8 @@
 	"license": "MIT",
 	"authors": [
 		{
-			"name": "Eduardo Marcos",
-			"email": "edujugon@gmail.com"
+			"name": "Jagad Raya",
+			"email": "jagadraya.work@gmail.com"
 		}
 	],
 	"require": {
